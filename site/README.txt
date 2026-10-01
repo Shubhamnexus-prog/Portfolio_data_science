@@ -1,7 +1,7 @@
 SHUBHAM GUPTA PORTFOLIO - how to put it online (free)
 
 Files
-  index.html                  main portfolio (open this first)
+  index.html                  main portfolio (open this first) 
   ecommerce-dashboard.html    E-Commerce Sales Analytics dashboard
   hr-attrition-dashboard.html HR Attrition dashboard
   customer-churn-dashboard.html Customer Churn dashboard
